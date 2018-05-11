@@ -1,3 +1,11 @@
-# acm problemes
+#  algorithm problem source
 
-3
+## ACM
+[acm] (Uva Online Judge ID) - (Problem title)
+ex) [acm] 100 - The 3n + 1 problem
+
+## Google code jam
+[codejam] (Round Num)_(Problem type). (Problem title)
+ex) [codejam] Round3_2017_ProblemA. Googlements
+
+
